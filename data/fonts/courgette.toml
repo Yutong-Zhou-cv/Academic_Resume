@@ -1,0 +1,12 @@
+# Font style metadata
+name = "Minimal"
+
+# Optional Google font URL
+#google_fonts = "family=Montserrat:wght@400;700&family=Roboto+Mono&family=Roboto:wght@400;700"
+google_fonts = "family=Courgette:wght@400;700&family=Parisienne:wght@400;700&family=Sacramento"
+
+# Font families
+heading_font = "Montserrat"
+body_font = "Courgette"
+nav_font = "Courgette"
+mono_font = "Sacramento"
