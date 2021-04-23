@@ -44,16 +44,16 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-- icon: envelope
+- icon: earlybirds
   icon_pack: fas
-  link: '/#contact'
-#- icon: twitter
+  link: 'mailto:zhou@i.ci.ritsumei.ac.jp'
+# - icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/GeorgeCushen
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
   link: https://scholar.google.co.uk/citations?user=LaIYgqwAAAAJ
-- icon: github
+- icon: github-alt
   icon_pack: fab
   link: https://github.com/Yutong-Zhou-cv
 # - icon: linkedin
@@ -80,4 +80,4 @@ My research interests are vision-language cooperative representation and multi-m
 
 I have published 6 papers and research reports on journals, international conferences and domestic conferences (about video de-raining and text-to-face synthesis tasks), and responsible for 3 projects (neural sign language translation, face-glasses composition & generation task, and the ingredients place order and location prediction of a bento for industrial automatic robotics). 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "CV_ZHOU Yutong.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "CV_Yutong.pdf" "newtab" >}}resumé{{< /staticref >}}.
