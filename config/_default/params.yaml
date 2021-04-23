@@ -7,7 +7,10 @@
 
 theme: Minimal
 day_night: true
-font: 'cursive'
+font: ''
+font-family: 'Courgette'
+font-family: 'Parisienne'
+font-family: 'Sacramento'
 font_size: L
 
 # SEO
