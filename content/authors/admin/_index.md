@@ -45,7 +45,7 @@ education:
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
 - icon: earlybirds
-  icon_pack: fas
+  icon_pack: fab
   link: 'mailto:zhou@i.ci.ritsumei.ac.jp'
 # - icon: twitter
 #  icon_pack: fab
@@ -56,6 +56,9 @@ social:
 - icon: github-alt
   icon_pack: fab
   link: https://github.com/Yutong-Zhou-cv
+- icon: researchgate
+  icon_pack: fab
+  link: https://www.researchgate.net/profile/Yutong-Zhou-7
 # - icon: linkedin
 #  icon_pack: fab
 #  link: https://www.linkedin.com/
@@ -71,7 +74,7 @@ social:
 email: ""
 
 # Highlight the author in author lists? (true/false)
-highlight_name: false
+highlight_name: true
 ---
 
 Currently, I’m a Ph.D. student in Interaction Laboratory at Ritsumeikan University (since Fall 2020) and supervised by [Prof. Nobutaka Shimada](https://research-db.ritsumei.ac.jp/rithp/k03/resid/S000224?lang=en). Before that, I received my M.E. in Ritsumeikan University with research on the video-based draining task, supervised by Prof.Nobutaka Shimada, and got my double certificated B.E in software engineering in Dalian University of Technology(DUT) and B.E in information science and engineering in Ritsumeikan University(RU).
