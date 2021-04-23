@@ -7,7 +7,7 @@
 
 theme: Minimal
 day_night: true
-font: ''
+font: './data/fonts/Courgette.toml'
 font-family: 'Courgette'
 font-family: 'Parisienne'
 font-family: 'Sacramento'
