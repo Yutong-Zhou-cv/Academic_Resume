@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: "Yutong's Homepage" # Website name
-baseurl: 'https://yutong-sanctuary.netlify.app/' # Website URL
+baseurl: 'https://yutong-sanctuary.sweet/' # Website URL
 copyright: '' # Footer text, e.g. '© {year} Me'
 
 ############################
