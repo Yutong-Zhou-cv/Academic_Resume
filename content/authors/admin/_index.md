@@ -17,11 +17,18 @@ organizations:
 bio: My research interests include Image Synthesis, GAN and Computer Vision.
 
 # Interests to show in About widget
-interests:
+Research interests:
 - Artificial Intelligence
 - Computer Vision
 - Generative Adversarial Network
 - Transformer
+
+# Interests to show in About widget
+Hobbies:
+- Basketball
+- Piano
+- Cooking
+- Jogging
 
 # Education to show in About widget
 education:
@@ -77,10 +84,12 @@ email: ""
 highlight_name: true
 ---
 
-Currently, I’m a Ph.D. student in Interaction Laboratory at Ritsumeikan University (since Fall 2020) and supervised by [Prof. Nobutaka Shimada](https://research-db.ritsumei.ac.jp/rithp/k03/resid/S000224?lang=en). Before that, I received my M.E. in Ritsumeikan University with research on the video-based draining task, supervised by Prof.Nobutaka Shimada, and got my double certificated B.E in software engineering in Dalian University of Technology(DUT) and B.E in information science and engineering in Ritsumeikan University(RU).
+Currently, I’m a Ph.D. student in [Interaction Laboratory](http://www.i.ci.ritsumei.ac.jp/wp/) at [Ritsumeikan University](http://en.ritsumei.ac.jp/) (since Fall 2020) and supervised by [Prof. Nobutaka Shimada](https://research-db.ritsumei.ac.jp/rithp/k03/resid/S000224?lang=en). Before that, I received my M.E. in Ritsumeikan University with research on the video-based draining task, supervised by Prof.Nobutaka Shimada, and got my double certificated B.E in software engineering in Dalian University of Technology(DUT) and B.E in information science and engineering in Ritsumeikan University(RU).
 
-My research interests are vision-language cooperative representation and multi-modalities learning, which includes text-to-face synthesis and manipulation, face analysis, and image synthesis in various industries. I have proposed a SOTA text-to-face dataset and new metrics to driven research in this field. 
+My research interests are **vision-language cooperative representation** and **multi-modalities learning**, which includes text-to-face synthesis and manipulation, face analysis, and image synthesis in various industries. I have proposed a SOTA text-to-face dataset and new metrics to driven research in this field. 
 
-I have published 6 papers and research reports on journals, international conferences and domestic conferences (about video de-raining and text-to-face synthesis tasks), and responsible for 3 projects (neural sign language translation, face-glasses composition & generation task, and the ingredients place order and location prediction of a bento for industrial automatic robotics). 
+I have published **9** papers and research reports on journals, international conferences and domestic conferences (video de-raining and text-to-face synthesis tasks), and responsible for **3** projects (neural sign language translation, face-glasses composition & generation task, and the ingredients place order and location prediction of a bento for industrial automatic robotics). 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "CV_Yutong.pdf" "newtab" >}}resumé{{< /staticref >}}.
+With 5 years abroad life nourishes my English, Japanese and gains my independence. I am also an amateur poet, pianist, basketball player, and keen on cooking and baking.
+
+<!--{{< icon name="download" pack="fas" >}} Download my {{< staticref "CV_Yutong.pdf" "newtab" >}}resumé{{< /staticref >}}.-->
