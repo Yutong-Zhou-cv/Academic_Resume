@@ -17,18 +17,22 @@ organizations:
 bio: My research interests include Image Synthesis, GAN and Computer Vision.
 
 # Interests to show in About widget
-Research interests:
-- Artificial Intelligence
-- Computer Vision
-- Generative Adversarial Network
-- Transformer
+interests:
+- 🧠Artificial Intelligence🧠
+- 👀Computer Vision👀
+- ⭐Generative Adversarial Network⭐
+- 👩‍💻Transformer👩‍💻
+- 🏀Basketball
+- 🎹Piano
+- 👩‍🍳Cooking
+- 🏃‍Jogging
 
 # Interests to show in About widget
-Hobbies:
-- Basketball
-- Piano
-- Cooking
-- Jogging
+#Hobbies:
+#- 🏀Basketball
+#- 🎹Piano
+#- 👩‍🍳Cooking
+#- 🏃‍Jogging
 
 # Education to show in About widget
 education:
